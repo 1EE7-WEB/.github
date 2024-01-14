@@ -1,5 +1,4 @@
 ![1ee7 Logo](Screenshot_65-removebg-preview.png)
-
 ## Meet the Team
 
 ### Davud Ibrahim
