@@ -36,7 +36,7 @@ We welcome collaboration and appreciate your interest in our work. if you see so
 
 ## Connect With Us
 
-Send an email to <u>ibra.davud@gmail.com</u> or <u>@gmail.com</u> 
+Send an email to <u>ibra.davud@gmail.com</u> 
 
 Feel free to reach out to us with any questions, ideas, or collaboration proposals. We look forward to building the future of technology together!
 
