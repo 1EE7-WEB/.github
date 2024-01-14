@@ -2,7 +2,7 @@
 ## Meet the Team
 
 ### Davud Ibrahim
-- **Role:** Leader & Lead Software Developer
+- **Role:** Lead Software Developer
 - **GitHub:** [Davud's GitHub](https://github.com/davudibrahim)
 
 ### Murad Süleymanlı
