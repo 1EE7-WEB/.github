@@ -1,4 +1,4 @@
-![1ee7 Logo](link-to-your-logo.png)
+![1ee7 Logo](Screenshot_65.png)
 
 ## Meet the Team
 
