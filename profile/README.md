@@ -23,7 +23,7 @@ Hey, we're a team of young and aspiring engineers who like to build stuff.
 
 ## Projects
 
-We're currently brainstorming our project for the h4g hackathon. We'll start development after the  
+We're currently developing our submission for h4g!
 
 We welcome collaboration and appreciate your interest in our work. if you see something you want to contribute to,
 
